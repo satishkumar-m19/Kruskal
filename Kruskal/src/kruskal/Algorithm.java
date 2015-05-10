@@ -19,7 +19,7 @@ public class Algorithm {
 	public static DrawGraph addlineMST = new DrawGraph();
 	// List<Edge> MST, TSP; // Edge List
 	// For Storing Time and Memory for all the algorithms
-
+	//test
 	long startAlgoTime;
 	long endAlgoTime;
 	long startTSPTime;
